@@ -2,7 +2,7 @@
 
 Computer Graphics Algorithms programmed in Python by me during semester break.
 
-This is my hard attempt to implement these algorithms as accurately as possible in Python.
+This is my hard attempt at implementing computer graphics algorithms as accurately as possible in Python.
 
 Here, Computer Graphics Algorithms includes:
     
